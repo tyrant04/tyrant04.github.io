@@ -1,17 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Your Name - Developer</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
-<body>
+<body >
+</html>
   <header>
-    <h1>Your Name</h1>
+    <h1>Muh. Afdal Ziqri</h1>
     <p>Developer</p>
   </header>
 
   <section>
     <h2>About Me</h2>
-    <p>Write a brief introduction about yourself here.</p>
+    <p>im a informatic enginering</p>
   </section>
 
   <section>
@@ -22,6 +26,7 @@
       <!-- Add more project links here -->
     </ul>
   </section>
+  </body>
 
   <footer>
     <p>Contact: your.email@example.com</p>
