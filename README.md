@@ -6,7 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body >
+<body style="
+        background-color: rgb(239, 173, 67);
+        text-align: center;
+        margin-top: auto;
+        margin: auto;
+        padding: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+          sans-serif;
+        color: beige;
+        width: 800px;
+        height: auto;
+      ">
 </html>
   <header>
     <h1>Muh. Afdal Ziqri</h1>
@@ -25,7 +36,7 @@
     </ul>
   </section>
   <footer>
-    <p>Contact: your.email@example.com</p>
+    <p>Contact: cikoh536@gmail.com</p>
   </footer>
 </body>
 </html>
