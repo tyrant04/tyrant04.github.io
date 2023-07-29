@@ -12,12 +12,10 @@
     <h1>Muh. Afdal Ziqri</h1>
     <p>Developer</p>
   </header>
-
   <section>
     <h2>About Me</h2>
     <p>im a informatic enginering</p>
   </section>
-
   <section>
     <h2>Projects</h2>
     <ul>
@@ -26,8 +24,6 @@
       <!-- Add more project links here -->
     </ul>
   </section>
-  </body>
-
   <footer>
     <p>Contact: your.email@example.com</p>
   </footer>
